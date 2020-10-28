@@ -1,0 +1,12 @@
+{
+  "name": "niceapp",
+  "displayName": "niceapp",
+  "expo": {
+    "name": "niceapp",
+    "slug": "niceapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
